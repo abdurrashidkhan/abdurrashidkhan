@@ -1,4 +1,5 @@
 ##
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/neyaznafiz/count.svg?"  />
 </div>
@@ -9,7 +10,7 @@
 [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&labelColor=white&logo=rust&logoColor=black)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
-[![Neyaz Nafiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neyaznafiz&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abdur Rashid Khan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neyaznafiz&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
  
@@ -22,26 +23,28 @@ IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https
 <!-- <a href="https://neyaznafiz.xyz/" target="_blank"> ![neyaznafiz-github-card](./assets/github-card.png) </a><a href="https://app.daily.dev/neyaznafiz"><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?r=yua&type=default" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
  <!-- <img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
  <!-- <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=cae" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
- <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=ivt" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a>
- 
+
+<a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=ivt" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a>
+
 TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squads/bitpress">BITPRESS SQUAD</a>_** TO GATHER VARITIES OF KNOWLEDGE </br> IN ONE PLACE AND STAY UP-TO-DATE ON THE TECH INDUSTRY.
+
 ### **_<a href="https://app.daily.dev/squads/bitpress">JOIN BITPRESS SQUAD</a>_**
 
 ##
 
 </br>
 
-  ### 📫  *REACH ME OUT* ⇘ 
+### 📫 _REACH ME OUT_ ⇘
 
  </br>
 
-  <a href="https://www.linkedin.com/in/neyaznafiz/">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
-  <a href="https://wa.me/+8801303246616" target='_blank'>![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>&nbsp;
-  <a href="https://dev.to/neyaznafiz">![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)</a>&nbsp;
-  <a href="https://twitter.com/neyaznafiz">![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)</a>&nbsp;
-  <a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
-  <a href="https://instagram.com/neyaznafiz">![INSTAGRAM](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>&nbsp;
- 
+<a href="https://www.linkedin.com/in/neyaznafiz/">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
+<a href="https://wa.me/+8801303246616" target='_blank'>![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>&nbsp;
+<a href="https://dev.to/neyaznafiz">![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)</a>&nbsp;
+<a href="https://twitter.com/neyaznafiz">![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)</a>&nbsp;
+<a href="https://www.facebook.com/neyaznafiz">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
+<a href="https://instagram.com/neyaznafiz">![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>&nbsp;
+
   <!-- IF YOU LIKE WHAT I DO, TAKE A LOOK AT MY **_<a href="https://drive.google.com/file/d/1RJKQbna1BbNCASHx2zt32oz1uYC2_t0B/view?usp=sharing" target="_blank">RESUME</a>_** -->
 
 ##
@@ -53,10 +56,14 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
  <div align="left">
 
 ### PRODUCT
- **_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
- ##
- ### WHAT I AM WORKING ON NOW...!
- Currently, I'm working on a Telemedicine software called <a href="https://healthmasterbd.com">Health Master</a>.
+
+**_<a href="https://crates.io/crates/system_diskinfo" target="_blank">system_diskinfo</a>_**. A package for RUST programmers to collect information about disk drives (SSD/HDD) etc from a Windows operating system.
+
+##
+
+### WHAT I AM WORKING ON NOW...!
+
+Currently, I'm working on a Telemedicine software called <a href="https://healthmasterbd.com">Health Master</a>.
 
 </div>
 
@@ -71,12 +78,15 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 
 <div align="left">
 
-## *💻 My Recent Blog Post* ⇘
+## _💻 My Recent Blog Post_ ⇘
 
-#### ➥ *[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)*
-#### ➥ *[A Comprehensive Overview of Rust.](https://dev.to/neyaznafiz/--3lb0)*
-#### ➥ *[Difference between SQL and NoSQL databases.](https://dev.to/neyaznafiz/difference-between-sql-and-nosql-databases-458j)*
-#### ➥ *[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)*
+#### ➥ _[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)_
+
+#### ➥ _[A Comprehensive Overview of Rust.](https://dev.to/neyaznafiz/--3lb0)_
+
+#### ➥ _[Difference between SQL and NoSQL databases.](https://dev.to/neyaznafiz/difference-between-sql-and-nosql-databases-458j)_
+
+#### ➥ _[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)_
 
 </div>
 
@@ -89,7 +99,8 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 </br>
 </br>
 
-## *💻 Technologies That I Know* ⇘
+## _💻 Technologies That I Know_ ⇘
+
 </br>
 
 ![Zig Badge](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)&nbsp;
@@ -126,5 +137,3 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![After Effect](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)&nbsp;
-
-
