@@ -14,7 +14,7 @@
 
 <div align="center">
  
-IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="durrashidkhan2025.web.app" target="_blank">PORTFOLIO</a>_**
+IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https://abdurrashidkhan2025.web.app/" target="_blank">PORTFOLIO</a>_**
  
 ##
 
