@@ -24,7 +24,7 @@ IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https
  <!-- <img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
  <!-- <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=cae" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
 
-<a href="https://app.daily.dev/abdurrashidkhan2"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=ivt" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a>
+<a href="https://app.daily.dev/abdurrashidkhan_dev"><img src="https://api.daily.dev/devcards/v2/BCne4uKIviubtKVMIOM8D.png?type=wide&r=zc3" width="652" alt="Rashid khan's Dev Card"/></a>
 
 TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squads/bitpress">BITPRESS SQUAD</a>_** TO GATHER VARITIES OF KNOWLEDGE </br> IN ONE PLACE AND STAY UP-TO-DATE ON THE TECH INDUSTRY.
 
