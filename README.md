@@ -67,7 +67,7 @@ Currently, I'm working on a Telemedicine software called <a href="https://health
 
 </div>
 
-![abdurrashidkhan's Stats](https://github-readme-stats.vercel.app/api?username=abdurrashidkhan&theme=default&show_icons=true&hide_border=true&count_private=true)
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrashidkhan&theme=graywhite" width="470" height="300" alt="neyaz's most used languages" align="left" />
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=light&count_private=true&layout=compact" width="340" height="300" alt="neyaz's most used languages" />
 
