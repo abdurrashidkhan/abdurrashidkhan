@@ -51,7 +51,7 @@ TAKE ADVANTAGE OF THE OPEN SOURCE AND FREE **_<a href="https://app.daily.dev/squ
 
 </br>
 
-![abdurrashidkhan's Stats](https://github-readme-stats.vercel.app/api?username=abdurrashidkhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![abdurrashidkhan's Stats](https://github-readme-stats.vercel.app/api?username=abdurrashidkhan&theme=default&show_icons=true&hide_border=true&count_private=true)
 
  <div align="left">
 
