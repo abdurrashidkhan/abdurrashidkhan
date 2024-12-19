@@ -20,9 +20,9 @@ IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https
 
 </br>
 
-<!-- <a href="https://abdurrashidkhan.xyz/" target="_blank"> ![abdurrashidkhan-github-card](./assets/github-card.png) </a><a href="https://app.daily.dev/abdurrashidkhan"><a href="https://app.daily.dev/abdurrashidkhan"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?r=yua&type=default" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
- <!-- <img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
- <!-- <a href="https://app.daily.dev/abdurrashidkhan"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=cae" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
+<!-- <a href="https://abdurrashidkhan.xyz/" target="_blank"> ![abdurrashidkhan-github-card](./assets/github-card.png) </a><a href="https://app.daily.dev/abdurrashidkhan"><a href="https://app.daily.dev/abdurrashidkhan"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?r=yua&type=default" width="227" alt="abdurrashidkhan NAFIZ's Dev Card"/></a> -->
+ <!-- <img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="abdurrashidkhan NAFIZ's Dev Card"/></a> -->
+ <!-- <a href="https://app.daily.dev/abdurrashidkhan"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=cae" width="652" alt="abdurrashidkhan NAFIZ's Dev Card"/></a> -->
 
 <a href="https://app.daily.dev/abdurrashidkhan_dev"><img src="https://api.daily.dev/devcards/v2/BCne4uKIviubtKVMIOM8D.png?type=wide&r=zc3" width="652" alt="Rashid khan's Dev Card"/></a>
 
@@ -67,7 +67,7 @@ Currently, I'm working on a Telemedicine software called <a href="https://health
 
 </div>
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrashidkhan&theme=graywhite" width="470" height="300" alt="neyaz's most used languages" align="left" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrashidkhan&theme=graywhite" width="470" height="300" alt="abdurrashidkhan's most used languages" align="left" />
 
 
 <!-- ![abdurrashidkhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrashidkhan&theme=default&show_icons=true&hide_border=true&layout=compact) -->
