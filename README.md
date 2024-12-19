@@ -1,7 +1,7 @@
 ##
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/neyaznafiz/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/abdurrashidkhan/count.svg?"  />
 </div>
 
 ###
@@ -20,9 +20,9 @@ IF YOU ARE INTERESTED TO KNOW MORE ABOUT ME, TAKE A LOOK AT MY **_<a href="https
 
 </br>
 
-<!-- <a href="https://neyaznafiz.xyz/" target="_blank"> ![neyaznafiz-github-card](./assets/github-card.png) </a><a href="https://app.daily.dev/neyaznafiz"><a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?r=yua&type=default" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
+<!-- <a href="https://abdurrashidkhan.xyz/" target="_blank"> ![abdurrashidkhan-github-card](./assets/github-card.png) </a><a href="https://app.daily.dev/abdurrashidkhan"><a href="https://app.daily.dev/abdurrashidkhan"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?r=yua&type=default" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
  <!-- <img src="https://api.daily.dev/devcards/eefc3b6f16304532906cff0456a27984.png?r=qkf" width="227" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
- <!-- <a href="https://app.daily.dev/neyaznafiz"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=cae" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
+ <!-- <a href="https://app.daily.dev/abdurrashidkhan"><img src="https://api.daily.dev/devcards/v2/EhQaXSXNXUJjSBMJrSWlf.png?type=wide&r=cae" width="652" alt="NEYAZ NAFIZ's Dev Card"/></a> -->
 
 <a href="https://app.daily.dev/abdurrashidkhan_dev"><img src="https://api.daily.dev/devcards/v2/BCne4uKIviubtKVMIOM8D.png?type=wide&r=zc3" width="652" alt="Rashid khan's Dev Card"/></a>
 
@@ -73,7 +73,7 @@ Currently, I'm working on a Telemedicine software called <a href="https://health
 <!-- ![abdurrashidkhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrashidkhan&theme=default&show_icons=true&hide_border=true&layout=compact) -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrashidkhan&theme=light&count_private=true&layout=compact" width="340" height="300" alt="abdur rashid khan most used languages" />
 
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyaznafiz&theme=graywhite&hide_langs_below=1"> -->
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrashidkhan&theme=graywhite&hide_langs_below=1"> -->
 
 </br>
 </br>
@@ -82,18 +82,18 @@ Currently, I'm working on a Telemedicine software called <a href="https://health
 
 ## _💻 My Recent Blog Post_ ⇘
 
-#### ➥ _[React component lifecycle.](https://dev.to/neyaznafiz/react-component-lifecycle-3pee)_
+#### ➥ _[React component lifecycle.](https://dev.to/abdurrashidkhan/react-component-lifecycle-3pee)_
 
-#### ➥ _[A Comprehensive Overview of Rust.](https://dev.to/neyaznafiz/--3lb0)_
+#### ➥ _[A Comprehensive Overview of Rust.](https://dev.to/abdurrashidkhan/--3lb0)_
 
-#### ➥ _[Difference between SQL and NoSQL databases.](https://dev.to/neyaznafiz/difference-between-sql-and-nosql-databases-458j)_
+#### ➥ _[Difference between SQL and NoSQL databases.](https://dev.to/abdurrashidkhan/difference-between-sql-and-nosql-databases-458j)_
 
-#### ➥ _[Difference Between Local Storage And Session Storage in browser.](https://dev.to/neyaznafiz/difference-between-local-storage-and-session-storage-in-browser-1a5m)_
+#### ➥ _[Difference Between Local Storage And Session Storage in browser.](https://dev.to/abdurrashidkhan/difference-between-local-storage-and-session-storage-in-browser-1a5m)_
 
 </div>
 
 <div align="right">
- <a href='https://dev.to/neyaznafiz'> ➦ CHECKOUT ALL BLOGS <a/>
+ <a href='https://dev.to/abdurrashidkhan'> ➦ CHECKOUT ALL BLOGS <a/>
 </div>
 
 </div>
