@@ -6,15 +6,6 @@
 
 ###
 
-<div align="center">
-
-[![Zig Badge](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)](#)
-[![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#)
-[![Javascript Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](#)
-
-</div>
-
----
 
 [![Abdur Rashid Khan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdurrashidkhan&theme=react-dark&bg_color=0D1117&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
