@@ -1,7 +1,7 @@
 ##
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/abdurrashidkhan/count.svg?" alt="Profile Views Counter" />
+  <img src="https://profile-counter.glitch.me/abdurrashidkhan/count.svg?" />
 </div>
 
 ###
