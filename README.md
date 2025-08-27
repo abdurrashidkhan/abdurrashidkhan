@@ -16,8 +16,7 @@
 
 ---
 
-[![Rashid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdurrashidkhan)](https://github.com/abdurrashidkhan/github-readme-activity-graph)
-
+[![Abdur Rashid Khan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdurrashidkhan&theme=react-dark&bg_color=0D1117&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
